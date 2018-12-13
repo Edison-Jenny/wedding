@@ -22,7 +22,7 @@ telephone:
 copyright:
 
 # API settings
-google_api_key:
+google_api_key: https://www.google.com/maps/embed/v1/view?key=AIzaSyA-p_kHQpNkm_9yCBdAE8yDQwFJnECSXNI&center=25.486093, -100.184973 &zoom=15 &maptype=satellite
 
 # Build settings
 markdown: kramdown
