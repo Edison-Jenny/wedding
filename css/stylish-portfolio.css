@@ -13,9 +13,6 @@ body {
 }
 
 body {
-    
-
-   
     font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif; 
 }
 
@@ -31,6 +28,7 @@ body {
     font-size: 4.5em;
     font-weight: 700;
     color: #FFFFFF;
+    font-family: "Lobster", serif;
 }
 
 /* Custom Button Styles */
