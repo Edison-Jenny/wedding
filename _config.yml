@@ -1,6 +1,6 @@
 # Site settings
 title: Edison & Jenny
-email:
+email: vazquezedison@gmail.com
 description: "Yo y mi Casa serviremos a Jehova"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
@@ -9,8 +9,6 @@ url: "" # the base hostname & protocol for your site
 owner:
 email:
 facebook_username:
-twitter_username:
-github_username:
 address:
   - line:
   - line:
