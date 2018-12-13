@@ -1,22 +1,19 @@
 # Site settings
 title: EDISON&JENNY
-email: your-email@domain.com
+email: vazquezedison@gmail.com
 description: "hello"
 baseurl: "/boda/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
 owner: Edison
-email: name@example.com
-facebook_username: example
-twitter_username: example
-github_username: example
+email: vazquezedison@gmail.com
 address:
-  - line: 3481 Melrose Hill St
-  - line: "Los Angeles, CA 90029"
+  - line: Casrretera Nacional Km. 257, San Roberto S/N
+  - line: "Santiago, NL 67300"
   # Feel free to add more lines here 
-telephone: (123) 456-7890
-copyright: Your Site
+telephone: 55-545-707-89
+copyright: edison
 
 # API settings
 google_api_key: AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
