@@ -6,7 +6,7 @@ baseurl: "/boda/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
-owner: Edison
+owner: Edison&Jenny
 email: vazquezedison@gmail.com
 address:
   - line: Casrretera Nacional Km. 257, San Roberto S/N
