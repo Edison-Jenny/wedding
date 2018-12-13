@@ -2,7 +2,7 @@
 title: EDISON&JENNY
 email: your-email@domain.com
 description: "hello"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/boda/" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # User setting
