@@ -1,3 +1,3 @@
-# Stylish Portolio template for Jekyll
+# COLEGIO PRIVADO, PRIVADO DE TOPOS QUE LA ESCRIBEN
 
-A Jekyll implementation of the [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) template by [Start Bootstrap](http://startbootstrap.com/).
+si sabes quien dijo esta frase, puedes entrar a ver mi site.
