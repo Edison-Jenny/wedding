@@ -11,6 +11,11 @@
   font-weight: normal;
   font-style: normal;
 }
+
+p.oblique {
+  font-style: oblique;
+}
+
 .fa {
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
