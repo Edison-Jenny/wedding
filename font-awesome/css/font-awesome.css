@@ -5,7 +5,7 @@
 /* FONT PATH
  * -------------------------- */
 .mar{
-  font-family: 'Charm', cursive;
+  font-family: 'Charm', cursive, important!;
 }
 
 @font-face {
